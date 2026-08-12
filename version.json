@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "notes": "Version initiale.",
+  "fichiers": [
+    {
+      "nom": "Detours.exe",
+      "url": "Detours.exe",
+      "sha256": "ae6919735ac702690ecdfa6c33396c7fe9605324f9950a83ac2d8265e5d35dab"
+    },
+    {
+      "nom": "paquet.dat",
+      "url": "paquet.dat",
+      "sha256": "7edb6b393830cd2fc6318dc811315d1aa2d886d2fee21a615782b1694aaeb017"
+    }
+  ]
+}
