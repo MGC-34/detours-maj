@@ -1,16 +1,16 @@
 {
-  "version": "1.0.0",
-  "notes": "Version initiale.",
+  "version": "1.1.0",
+  "notes": "Ajout de l'anglais (sélecteur FR / EN).",
   "fichiers": [
     {
       "nom": "Detours.exe",
       "url": "Detours.exe",
-      "sha256": "ae6919735ac702690ecdfa6c33396c7fe9605324f9950a83ac2d8265e5d35dab"
+      "sha256": "af5abf25e23c4954c0bcb6ae6cfd5a2ba9689512b31bd3bdc94f3dfa0b10f770"
     },
     {
       "nom": "paquet.dat",
       "url": "paquet.dat",
-      "sha256": "7edb6b393830cd2fc6318dc811315d1aa2d886d2fee21a615782b1694aaeb017"
+      "sha256": "6664fa2cbcc56aa565f59f36ed05a949d89ba62d15b473d8d434484ae2bd129b"
     }
   ]
 }
